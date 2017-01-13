@@ -34,7 +34,8 @@ body {
 
 .under_navbar {
 	background-color: #ECECEA;
-	height: 500px;
+	/*height: 500px;*/ /* No Need For The Height */
+	/* If you want that box to be longer you can just add padding-bottom  */
 	width: 100%;
 	padding: 0 20px;
 }
