@@ -1,0 +1,49 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+	padding-top: 30px;
+}
+
+/*Resizing the logo*/
+.img-responsive {
+	height: 50px;
+	width: 50px;
+}
+
+.title li {
+	font-size: 16px;
+	padding-top: 10px;
+	color: #D9853B;
+	padding-right: 5px;
+}
+
+.about_me {
+	color: #D9853B;
+}
+
+.under_navbar h2 {
+	padding-top: 10px;
+	text-align: center;
+}
+
+.navbar {
+	color: #558C89;
+}
+
+.under_navbar {
+	background-color: #ECECEA;
+	height: 500px;
+	width: 100%;
+	padding: 0 20px;
+}
+
+a {
+	color: #D9853B;
+	text-decoration: none;
+}
+
+/*.seperator {
+border: 2px solid #558C89;
+}*/
