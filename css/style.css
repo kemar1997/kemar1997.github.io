@@ -49,3 +49,15 @@ a {
 /*.seperator {
 border: 2px solid #558C89;
 }*/
+
+.portfolio h2 {
+	text-align: center;
+	color: #D9853B;
+}
+
+.portfolio {
+	background-color: #558C89;
+	width: 100%;
+	padding: 0 20px;
+	padding-bottom: 130px;
+}
