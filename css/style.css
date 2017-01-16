@@ -41,9 +41,12 @@ body {
 	padding-bottom: 10px;
 }
 
-a {
-	color: #D9853B;
+a:hover {
 	text-decoration: none;
+}
+
+a:link {
+	text-decoration: none; 
 }
 
 /*.seperator {
