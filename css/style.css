@@ -71,6 +71,9 @@ border: 2px solid #558C89;
 .portfolio_title {
 	color: #D9853B;
 }
+
+/*---Image Gallery For Portfolio---Remember to Change---*/
+
 .image_list {
 	font-size: 0;
 	width: 1248px;
@@ -96,4 +99,19 @@ border: 2px solid #558C89;
 .image_list img {
 	-webkit-border-radius: 16px;
 	border-radius: 16px;
+}
+
+/*---------------footer---------------*/
+
+footer {
+	width: 100%;
+	background-color: #ECECEA;
+	padding: 20px 60px;
+	text-align: center;
+}
+
+/*---h3 in footer---*/
+
+footer h3 {
+	color: #D9853B;
 }
