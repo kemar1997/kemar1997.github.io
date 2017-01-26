@@ -115,3 +115,42 @@ footer {
 footer h3 {
 	color: #D9853B;
 }
+
+/*--- Contact Form ---*/
+
+#form-wrap {
+	background-color: #D9853B;
+	width: 100%;
+	padding: 5px 15px;
+	border: 5px solid #ECECEA;
+}
+
+form {
+	width: 400px;
+	margin: 0 auto;
+}
+
+label {
+	display: block;
+	margin: 5px 0 5px 0;
+}
+
+input {
+	width: 250px;
+	margin: 0 0 0 20px;
+}
+
+textarea {
+	width: 250px;
+	margin: 0 0 0 20px;
+	max-width: 400px;
+	max-height: 400px;
+}
+
+.labelone {
+	margin-top: 10px;
+}
+
+.btn {
+	width: 125px;
+}
